@@ -1,1 +1,1 @@
-# legendary-octo-happiness
+This project implements the 2048 game
